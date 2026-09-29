@@ -1,2 +1,4 @@
-# LoVEGaME
-LÖVEGÄME is my first game in LÖVE2D. Here is the source code on GitHub. it's only for Linux sry
+# LÖVEGÄME
+this is only the source code
+
+you can compile it with LÖVE2D
